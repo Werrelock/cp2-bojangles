@@ -1,0 +1,64 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Bookman Old Style";
+}
+
+body {
+  background-color: #EEEEEE;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+.centeredBox {
+  margin-bottom: 25px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+#bojangles {
+  width: 250px;
+  height: auto;
+}
+
+.controls {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.controls button {
+  background-color: lightgreen;
+  padding: 10px;
+  font-size: 17px;
+}
+
+#joke {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.controls button {
+  background-color: lightgreen;
+  padding: 10px;
+  font-size: 17px;
+}
+
+.footer_container {
+  clear: both;
+  display: flex;
+  justify-content: center;
+}
+
+.footer {
+  background-color: red;
+  color: black;
+  border: solid;
+  border-width: 5px;
+  border-color: black;
+  bottom: 0;
+  padding: 10px;
+}
